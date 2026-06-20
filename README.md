@@ -21,4 +21,8 @@
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/ankesh716/java-training/tree/master/0200-number-of-islands) |
+## Math
+|  |
+| ------- |
+| [0009-palindrome-number](https://github.com/ankesh716/java-training/tree/master/0009-palindrome-number) |
 <!---LeetCode Topics End-->
