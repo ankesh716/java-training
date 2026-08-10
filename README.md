@@ -46,4 +46,12 @@
 |  |
 | ------- |
 | [1603-design-parking-system](https://github.com/ankesh716/java-training/tree/master/1603-design-parking-system) |
+## Two Pointers
+|  |
+| ------- |
+| [1768-merge-strings-alternately](https://github.com/ankesh716/java-training/tree/master/1768-merge-strings-alternately) |
+## String
+|  |
+| ------- |
+| [1768-merge-strings-alternately](https://github.com/ankesh716/java-training/tree/master/1768-merge-strings-alternately) |
 <!---LeetCode Topics End-->
