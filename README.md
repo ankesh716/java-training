@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/ankesh716/java-training/tree/master/0200-number-of-islands) |
+| [1431-kids-with-the-greatest-number-of-candies](https://github.com/ankesh716/java-training/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 ## Depth-First Search
 |  |
 | ------- |
