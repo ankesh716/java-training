@@ -6,6 +6,7 @@
 | ------- |
 | [0200-number-of-islands](https://github.com/ankesh716/java-training/tree/master/0200-number-of-islands) |
 | [0283-move-zeroes](https://github.com/ankesh716/java-training/tree/master/0283-move-zeroes) |
+| [0643-maximum-average-subarray-i](https://github.com/ankesh716/java-training/tree/master/0643-maximum-average-subarray-i) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/ankesh716/java-training/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 ## Depth-First Search
 |  |
@@ -73,4 +74,8 @@
 |  |
 | ------- |
 | [0392-is-subsequence](https://github.com/ankesh716/java-training/tree/master/0392-is-subsequence) |
+## Sliding Window
+|  |
+| ------- |
+| [0643-maximum-average-subarray-i](https://github.com/ankesh716/java-training/tree/master/0643-maximum-average-subarray-i) |
 <!---LeetCode Topics End-->
