@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/ankesh716/java-training/tree/master/0048-rotate-image) |
 | [0200-number-of-islands](https://github.com/ankesh716/java-training/tree/master/0200-number-of-islands) |
 | [0283-move-zeroes](https://github.com/ankesh716/java-training/tree/master/0283-move-zeroes) |
 | [0643-maximum-average-subarray-i](https://github.com/ankesh716/java-training/tree/master/0643-maximum-average-subarray-i) |
@@ -24,11 +25,13 @@
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/ankesh716/java-training/tree/master/0048-rotate-image) |
 | [0200-number-of-islands](https://github.com/ankesh716/java-training/tree/master/0200-number-of-islands) |
 ## Math
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/ankesh716/java-training/tree/master/0009-palindrome-number) |
+| [0048-rotate-image](https://github.com/ankesh716/java-training/tree/master/0048-rotate-image) |
 | [0231-power-of-two](https://github.com/ankesh716/java-training/tree/master/0231-power-of-two) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/ankesh716/java-training/tree/master/1071-greatest-common-divisor-of-strings) |
 ## Bit Manipulation
