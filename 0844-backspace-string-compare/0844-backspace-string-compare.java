@@ -23,11 +23,6 @@ class Solution {
                 st2.push(t.charAt(i));
             }
         }
-
-        if (st1.equals(st2)) {
-            return true;
-        } else {
-            return false;
-        }
+        return st1.equals(st2);
     }
 }
