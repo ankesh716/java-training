@@ -44,6 +44,7 @@
 ## Recursion
 |  |
 | ------- |
+| [0143-reorder-list](https://github.com/ankesh716/java-training/tree/master/0143-reorder-list) |
 | [0231-power-of-two](https://github.com/ankesh716/java-training/tree/master/0231-power-of-two) |
 ## Design
 |  |
@@ -60,6 +61,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0143-reorder-list](https://github.com/ankesh716/java-training/tree/master/0143-reorder-list) |
 | [0283-move-zeroes](https://github.com/ankesh716/java-training/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/ankesh716/java-training/tree/master/0344-reverse-string) |
 | [0392-is-subsequence](https://github.com/ankesh716/java-training/tree/master/0392-is-subsequence) |
@@ -96,4 +98,12 @@
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/ankesh716/java-training/tree/master/0073-set-matrix-zeroes) |
+## Linked List
+|  |
+| ------- |
+| [0143-reorder-list](https://github.com/ankesh716/java-training/tree/master/0143-reorder-list) |
+## Stack
+|  |
+| ------- |
+| [0143-reorder-list](https://github.com/ankesh716/java-training/tree/master/0143-reorder-list) |
 <!---LeetCode Topics End-->
