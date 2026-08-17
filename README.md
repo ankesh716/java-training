@@ -16,6 +16,7 @@
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/ankesh716/java-training/tree/master/0200-number-of-islands) |
+| [0543-diameter-of-binary-tree](https://github.com/ankesh716/java-training/tree/master/0543-diameter-of-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -115,8 +116,14 @@
 |  |
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/ankesh716/java-training/tree/master/0102-binary-tree-level-order-traversal) |
+| [0543-diameter-of-binary-tree](https://github.com/ankesh716/java-training/tree/master/0543-diameter-of-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/ankesh716/java-training/tree/master/0102-binary-tree-level-order-traversal) |
+| [0543-diameter-of-binary-tree](https://github.com/ankesh716/java-training/tree/master/0543-diameter-of-binary-tree) |
+## DP on Trees
+|  |
+| ------- |
+| [0543-diameter-of-binary-tree](https://github.com/ankesh716/java-training/tree/master/0543-diameter-of-binary-tree) |
 <!---LeetCode Topics End-->
