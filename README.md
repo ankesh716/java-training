@@ -17,6 +17,7 @@
 | ------- |
 | [0200-number-of-islands](https://github.com/ankesh716/java-training/tree/master/0200-number-of-islands) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/ankesh716/java-training/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/ankesh716/java-training/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/ankesh716/java-training/tree/master/0543-diameter-of-binary-tree) |
 ## Breadth-First Search
 |  |
@@ -118,12 +119,14 @@
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/ankesh716/java-training/tree/master/0102-binary-tree-level-order-traversal) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/ankesh716/java-training/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/ankesh716/java-training/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/ankesh716/java-training/tree/master/0543-diameter-of-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/ankesh716/java-training/tree/master/0102-binary-tree-level-order-traversal) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/ankesh716/java-training/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/ankesh716/java-training/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/ankesh716/java-training/tree/master/0543-diameter-of-binary-tree) |
 ## DP on Trees
 |  |
@@ -133,4 +136,13 @@
 |  |
 | ------- |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/ankesh716/java-training/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/ankesh716/java-training/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+## Binary Lifting
+|  |
+| ------- |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/ankesh716/java-training/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+## Lowest Common Ancestor
+|  |
+| ------- |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/ankesh716/java-training/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 <!---LeetCode Topics End-->
