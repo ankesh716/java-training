@@ -11,6 +11,7 @@
 | [0073-set-matrix-zeroes](https://github.com/ankesh716/java-training/tree/master/0073-set-matrix-zeroes) |
 | [0200-number-of-islands](https://github.com/ankesh716/java-training/tree/master/0200-number-of-islands) |
 | [0283-move-zeroes](https://github.com/ankesh716/java-training/tree/master/0283-move-zeroes) |
+| [0560-subarray-sum-equals-k](https://github.com/ankesh716/java-training/tree/master/0560-subarray-sum-equals-k) |
 | [0643-maximum-average-subarray-i](https://github.com/ankesh716/java-training/tree/master/0643-maximum-average-subarray-i) |
 | [0704-binary-search](https://github.com/ankesh716/java-training/tree/master/0704-binary-search) |
 | [0912-sort-an-array](https://github.com/ankesh716/java-training/tree/master/0912-sort-an-array) |
@@ -108,12 +109,14 @@
 ## Prefix Sum
 |  |
 | ------- |
+| [0560-subarray-sum-equals-k](https://github.com/ankesh716/java-training/tree/master/0560-subarray-sum-equals-k) |
 | [1732-find-the-highest-altitude](https://github.com/ankesh716/java-training/tree/master/1732-find-the-highest-altitude) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/ankesh716/java-training/tree/master/0001-two-sum) |
 | [0073-set-matrix-zeroes](https://github.com/ankesh716/java-training/tree/master/0073-set-matrix-zeroes) |
+| [0560-subarray-sum-equals-k](https://github.com/ankesh716/java-training/tree/master/0560-subarray-sum-equals-k) |
 | [0997-find-the-town-judge](https://github.com/ankesh716/java-training/tree/master/0997-find-the-town-judge) |
 ## Linked List
 |  |
