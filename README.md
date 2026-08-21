@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/ankesh716/java-training/tree/master/0001-two-sum) |
+| [0033-search-in-rotated-sorted-array](https://github.com/ankesh716/java-training/tree/master/0033-search-in-rotated-sorted-array) |
 | [0048-rotate-image](https://github.com/ankesh716/java-training/tree/master/0048-rotate-image) |
 | [0056-merge-intervals](https://github.com/ankesh716/java-training/tree/master/0056-merge-intervals) |
 | [0073-set-matrix-zeroes](https://github.com/ankesh716/java-training/tree/master/0073-set-matrix-zeroes) |
@@ -144,6 +145,7 @@
 ## Binary Search Tree
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/ankesh716/java-training/tree/master/0033-search-in-rotated-sorted-array) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/ankesh716/java-training/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/ankesh716/java-training/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0704-binary-search](https://github.com/ankesh716/java-training/tree/master/0704-binary-search) |
