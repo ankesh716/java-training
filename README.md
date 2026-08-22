@@ -9,6 +9,7 @@
 | [0048-rotate-image](https://github.com/ankesh716/java-training/tree/master/0048-rotate-image) |
 | [0056-merge-intervals](https://github.com/ankesh716/java-training/tree/master/0056-merge-intervals) |
 | [0073-set-matrix-zeroes](https://github.com/ankesh716/java-training/tree/master/0073-set-matrix-zeroes) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/ankesh716/java-training/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0200-number-of-islands](https://github.com/ankesh716/java-training/tree/master/0200-number-of-islands) |
 | [0283-move-zeroes](https://github.com/ankesh716/java-training/tree/master/0283-move-zeroes) |
 | [0560-subarray-sum-equals-k](https://github.com/ankesh716/java-training/tree/master/0560-subarray-sum-equals-k) |
@@ -76,6 +77,7 @@
 |  |
 | ------- |
 | [0143-reorder-list](https://github.com/ankesh716/java-training/tree/master/0143-reorder-list) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/ankesh716/java-training/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/ankesh716/java-training/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/ankesh716/java-training/tree/master/0344-reverse-string) |
 | [0392-is-subsequence](https://github.com/ankesh716/java-training/tree/master/0392-is-subsequence) |
@@ -149,6 +151,7 @@
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/ankesh716/java-training/tree/master/0033-search-in-rotated-sorted-array) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/ankesh716/java-training/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/ankesh716/java-training/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/ankesh716/java-training/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0704-binary-search](https://github.com/ankesh716/java-training/tree/master/0704-binary-search) |
