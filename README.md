@@ -17,6 +17,7 @@
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/ankesh716/java-training/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0643-maximum-average-subarray-i](https://github.com/ankesh716/java-training/tree/master/0643-maximum-average-subarray-i) |
 | [0704-binary-search](https://github.com/ankesh716/java-training/tree/master/0704-binary-search) |
+| [0875-koko-eating-bananas](https://github.com/ankesh716/java-training/tree/master/0875-koko-eating-bananas) |
 | [0912-sort-an-array](https://github.com/ankesh716/java-training/tree/master/0912-sort-an-array) |
 | [0997-find-the-town-judge](https://github.com/ankesh716/java-training/tree/master/0997-find-the-town-judge) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/ankesh716/java-training/tree/master/1431-kids-with-the-greatest-number-of-candies) |
@@ -162,6 +163,7 @@
 | [0230-kth-smallest-element-in-a-bst](https://github.com/ankesh716/java-training/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/ankesh716/java-training/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0704-binary-search](https://github.com/ankesh716/java-training/tree/master/0704-binary-search) |
+| [0875-koko-eating-bananas](https://github.com/ankesh716/java-training/tree/master/0875-koko-eating-bananas) |
 ## Binary Lifting
 |  |
 | ------- |
