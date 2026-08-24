@@ -7,6 +7,7 @@
 | [0001-two-sum](https://github.com/ankesh716/java-training/tree/master/0001-two-sum) |
 | [0033-search-in-rotated-sorted-array](https://github.com/ankesh716/java-training/tree/master/0033-search-in-rotated-sorted-array) |
 | [0048-rotate-image](https://github.com/ankesh716/java-training/tree/master/0048-rotate-image) |
+| [0054-spiral-matrix](https://github.com/ankesh716/java-training/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/ankesh716/java-training/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/ankesh716/java-training/tree/master/0056-merge-intervals) |
 | [0073-set-matrix-zeroes](https://github.com/ankesh716/java-training/tree/master/0073-set-matrix-zeroes) |
@@ -47,6 +48,7 @@
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/ankesh716/java-training/tree/master/0048-rotate-image) |
+| [0054-spiral-matrix](https://github.com/ankesh716/java-training/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/ankesh716/java-training/tree/master/0073-set-matrix-zeroes) |
 | [0200-number-of-islands](https://github.com/ankesh716/java-training/tree/master/0200-number-of-islands) |
 ## Math
@@ -73,6 +75,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/ankesh716/java-training/tree/master/0054-spiral-matrix) |
 | [0844-backspace-string-compare](https://github.com/ankesh716/java-training/tree/master/0844-backspace-string-compare) |
 | [1603-design-parking-system](https://github.com/ankesh716/java-training/tree/master/1603-design-parking-system) |
 ## Counting
