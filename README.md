@@ -93,6 +93,7 @@
 |  |
 | ------- |
 | [0008-string-to-integer-atoi](https://github.com/ankesh716/java-training/tree/master/0008-string-to-integer-atoi) |
+| [0022-generate-parentheses](https://github.com/ankesh716/java-training/tree/master/0022-generate-parentheses) |
 | [0165-compare-version-numbers](https://github.com/ankesh716/java-training/tree/master/0165-compare-version-numbers) |
 | [0344-reverse-string](https://github.com/ankesh716/java-training/tree/master/0344-reverse-string) |
 | [0392-is-subsequence](https://github.com/ankesh716/java-training/tree/master/0392-is-subsequence) |
@@ -111,6 +112,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/ankesh716/java-training/tree/master/0022-generate-parentheses) |
 | [0055-jump-game](https://github.com/ankesh716/java-training/tree/master/0055-jump-game) |
 | [0392-is-subsequence](https://github.com/ankesh716/java-training/tree/master/0392-is-subsequence) |
 ## Sliding Window
@@ -234,4 +236,12 @@
 |  |
 | ------- |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/ankesh716/java-training/tree/master/0581-shortest-unsorted-continuous-subarray) |
+## Backtracking
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/ankesh716/java-training/tree/master/0022-generate-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/ankesh716/java-training/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
