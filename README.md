@@ -52,6 +52,7 @@
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/ankesh716/java-training/tree/master/0009-palindrome-number) |
+| [0012-integer-to-roman](https://github.com/ankesh716/java-training/tree/master/0012-integer-to-roman) |
 | [0048-rotate-image](https://github.com/ankesh716/java-training/tree/master/0048-rotate-image) |
 | [0231-power-of-two](https://github.com/ankesh716/java-training/tree/master/0231-power-of-two) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/ankesh716/java-training/tree/master/1071-greatest-common-divisor-of-strings) |
@@ -93,6 +94,7 @@
 |  |
 | ------- |
 | [0008-string-to-integer-atoi](https://github.com/ankesh716/java-training/tree/master/0008-string-to-integer-atoi) |
+| [0012-integer-to-roman](https://github.com/ankesh716/java-training/tree/master/0012-integer-to-roman) |
 | [0022-generate-parentheses](https://github.com/ankesh716/java-training/tree/master/0022-generate-parentheses) |
 | [0165-compare-version-numbers](https://github.com/ankesh716/java-training/tree/master/0165-compare-version-numbers) |
 | [0344-reverse-string](https://github.com/ankesh716/java-training/tree/master/0344-reverse-string) |
@@ -130,6 +132,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/ankesh716/java-training/tree/master/0001-two-sum) |
+| [0012-integer-to-roman](https://github.com/ankesh716/java-training/tree/master/0012-integer-to-roman) |
 | [0073-set-matrix-zeroes](https://github.com/ankesh716/java-training/tree/master/0073-set-matrix-zeroes) |
 | [0560-subarray-sum-equals-k](https://github.com/ankesh716/java-training/tree/master/0560-subarray-sum-equals-k) |
 | [0997-find-the-town-judge](https://github.com/ankesh716/java-training/tree/master/0997-find-the-town-judge) |
