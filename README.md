@@ -7,6 +7,7 @@
 | [0001-two-sum](https://github.com/ankesh716/java-training/tree/master/0001-two-sum) |
 | [0033-search-in-rotated-sorted-array](https://github.com/ankesh716/java-training/tree/master/0033-search-in-rotated-sorted-array) |
 | [0048-rotate-image](https://github.com/ankesh716/java-training/tree/master/0048-rotate-image) |
+| [0055-jump-game](https://github.com/ankesh716/java-training/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/ankesh716/java-training/tree/master/0056-merge-intervals) |
 | [0073-set-matrix-zeroes](https://github.com/ankesh716/java-training/tree/master/0073-set-matrix-zeroes) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ankesh716/java-training/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -110,6 +111,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/ankesh716/java-training/tree/master/0055-jump-game) |
 | [0392-is-subsequence](https://github.com/ankesh716/java-training/tree/master/0392-is-subsequence) |
 ## Sliding Window
 |  |
@@ -226,6 +228,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/ankesh716/java-training/tree/master/0055-jump-game) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/ankesh716/java-training/tree/master/0581-shortest-unsorted-continuous-subarray) |
 ## Monotonic Stack
 |  |
