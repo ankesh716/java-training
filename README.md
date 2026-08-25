@@ -12,6 +12,7 @@
 | [0055-jump-game](https://github.com/ankesh716/java-training/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/ankesh716/java-training/tree/master/0056-merge-intervals) |
 | [0073-set-matrix-zeroes](https://github.com/ankesh716/java-training/tree/master/0073-set-matrix-zeroes) |
+| [0078-subsets](https://github.com/ankesh716/java-training/tree/master/0078-subsets) |
 | [0118-pascals-triangle](https://github.com/ankesh716/java-training/tree/master/0118-pascals-triangle) |
 | [0134-gas-station](https://github.com/ankesh716/java-training/tree/master/0134-gas-station) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ankesh716/java-training/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -67,6 +68,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/ankesh716/java-training/tree/master/0078-subsets) |
 | [0231-power-of-two](https://github.com/ankesh716/java-training/tree/master/0231-power-of-two) |
 ## Recursion
 |  |
@@ -259,6 +261,7 @@
 | ------- |
 | [0022-generate-parentheses](https://github.com/ankesh716/java-training/tree/master/0022-generate-parentheses) |
 | [0046-permutations](https://github.com/ankesh716/java-training/tree/master/0046-permutations) |
+| [0078-subsets](https://github.com/ankesh716/java-training/tree/master/0078-subsets) |
 | [0494-target-sum](https://github.com/ankesh716/java-training/tree/master/0494-target-sum) |
 ## Bracket Sequences
 |  |
