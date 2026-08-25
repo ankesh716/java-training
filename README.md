@@ -27,6 +27,7 @@
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/ankesh716/java-training/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0643-maximum-average-subarray-i](https://github.com/ankesh716/java-training/tree/master/0643-maximum-average-subarray-i) |
 | [0704-binary-search](https://github.com/ankesh716/java-training/tree/master/0704-binary-search) |
+| [0724-find-pivot-index](https://github.com/ankesh716/java-training/tree/master/0724-find-pivot-index) |
 | [0875-koko-eating-bananas](https://github.com/ankesh716/java-training/tree/master/0875-koko-eating-bananas) |
 | [0912-sort-an-array](https://github.com/ankesh716/java-training/tree/master/0912-sort-an-array) |
 | [0997-find-the-town-judge](https://github.com/ankesh716/java-training/tree/master/0997-find-the-town-judge) |
@@ -148,6 +149,7 @@
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/ankesh716/java-training/tree/master/0209-minimum-size-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/ankesh716/java-training/tree/master/0560-subarray-sum-equals-k) |
+| [0724-find-pivot-index](https://github.com/ankesh716/java-training/tree/master/0724-find-pivot-index) |
 | [1732-find-the-highest-altitude](https://github.com/ankesh716/java-training/tree/master/1732-find-the-highest-altitude) |
 ## Hash Table
 |  |
