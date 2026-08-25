@@ -17,6 +17,7 @@
 | [0200-number-of-islands](https://github.com/ankesh716/java-training/tree/master/0200-number-of-islands) |
 | [0209-minimum-size-subarray-sum](https://github.com/ankesh716/java-training/tree/master/0209-minimum-size-subarray-sum) |
 | [0283-move-zeroes](https://github.com/ankesh716/java-training/tree/master/0283-move-zeroes) |
+| [0376-wiggle-subsequence](https://github.com/ankesh716/java-training/tree/master/0376-wiggle-subsequence) |
 | [0560-subarray-sum-equals-k](https://github.com/ankesh716/java-training/tree/master/0560-subarray-sum-equals-k) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/ankesh716/java-training/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0643-maximum-average-subarray-i](https://github.com/ankesh716/java-training/tree/master/0643-maximum-average-subarray-i) |
@@ -124,6 +125,7 @@
 | [0055-jump-game](https://github.com/ankesh716/java-training/tree/master/0055-jump-game) |
 | [0070-climbing-stairs](https://github.com/ankesh716/java-training/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/ankesh716/java-training/tree/master/0118-pascals-triangle) |
+| [0376-wiggle-subsequence](https://github.com/ankesh716/java-training/tree/master/0376-wiggle-subsequence) |
 | [0392-is-subsequence](https://github.com/ankesh716/java-training/tree/master/0392-is-subsequence) |
 ## Sliding Window
 |  |
@@ -243,6 +245,7 @@
 | ------- |
 | [0055-jump-game](https://github.com/ankesh716/java-training/tree/master/0055-jump-game) |
 | [0134-gas-station](https://github.com/ankesh716/java-training/tree/master/0134-gas-station) |
+| [0376-wiggle-subsequence](https://github.com/ankesh716/java-training/tree/master/0376-wiggle-subsequence) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/ankesh716/java-training/tree/master/0581-shortest-unsorted-continuous-subarray) |
 ## Monotonic Stack
 |  |
