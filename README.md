@@ -35,6 +35,7 @@
 | [1260-shift-2d-grid](https://github.com/ankesh716/java-training/tree/master/1260-shift-2d-grid) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/ankesh716/java-training/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1528-shuffle-string](https://github.com/ankesh716/java-training/tree/master/1528-shuffle-string) |
+| [1701-average-waiting-time](https://github.com/ankesh716/java-training/tree/master/1701-average-waiting-time) |
 | [1732-find-the-highest-altitude](https://github.com/ankesh716/java-training/tree/master/1732-find-the-highest-altitude) |
 | [2022-convert-1d-array-into-2d-array](https://github.com/ankesh716/java-training/tree/master/2022-convert-1d-array-into-2d-array) |
 ## Depth-First Search
@@ -98,6 +99,7 @@
 | [0844-backspace-string-compare](https://github.com/ankesh716/java-training/tree/master/0844-backspace-string-compare) |
 | [1260-shift-2d-grid](https://github.com/ankesh716/java-training/tree/master/1260-shift-2d-grid) |
 | [1603-design-parking-system](https://github.com/ankesh716/java-training/tree/master/1603-design-parking-system) |
+| [1701-average-waiting-time](https://github.com/ankesh716/java-training/tree/master/1701-average-waiting-time) |
 | [2022-convert-1d-array-into-2d-array](https://github.com/ankesh716/java-training/tree/master/2022-convert-1d-array-into-2d-array) |
 ## Counting
 |  |
