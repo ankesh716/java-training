@@ -21,6 +21,7 @@
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ankesh716/java-training/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0200-number-of-islands](https://github.com/ankesh716/java-training/tree/master/0200-number-of-islands) |
 | [0209-minimum-size-subarray-sum](https://github.com/ankesh716/java-training/tree/master/0209-minimum-size-subarray-sum) |
+| [0221-maximal-square](https://github.com/ankesh716/java-training/tree/master/0221-maximal-square) |
 | [0283-move-zeroes](https://github.com/ankesh716/java-training/tree/master/0283-move-zeroes) |
 | [0289-game-of-life](https://github.com/ankesh716/java-training/tree/master/0289-game-of-life) |
 | [0376-wiggle-subsequence](https://github.com/ankesh716/java-training/tree/master/0376-wiggle-subsequence) |
@@ -67,6 +68,7 @@
 | [0073-set-matrix-zeroes](https://github.com/ankesh716/java-training/tree/master/0073-set-matrix-zeroes) |
 | [0079-word-search](https://github.com/ankesh716/java-training/tree/master/0079-word-search) |
 | [0200-number-of-islands](https://github.com/ankesh716/java-training/tree/master/0200-number-of-islands) |
+| [0221-maximal-square](https://github.com/ankesh716/java-training/tree/master/0221-maximal-square) |
 | [0289-game-of-life](https://github.com/ankesh716/java-training/tree/master/0289-game-of-life) |
 | [1260-shift-2d-grid](https://github.com/ankesh716/java-training/tree/master/1260-shift-2d-grid) |
 | [2022-convert-1d-array-into-2d-array](https://github.com/ankesh716/java-training/tree/master/2022-convert-1d-array-into-2d-array) |
@@ -151,6 +153,7 @@
 | [0064-minimum-path-sum](https://github.com/ankesh716/java-training/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/ankesh716/java-training/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/ankesh716/java-training/tree/master/0118-pascals-triangle) |
+| [0221-maximal-square](https://github.com/ankesh716/java-training/tree/master/0221-maximal-square) |
 | [0376-wiggle-subsequence](https://github.com/ankesh716/java-training/tree/master/0376-wiggle-subsequence) |
 | [0392-is-subsequence](https://github.com/ankesh716/java-training/tree/master/0392-is-subsequence) |
 | [0494-target-sum](https://github.com/ankesh716/java-training/tree/master/0494-target-sum) |
