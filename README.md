@@ -12,6 +12,7 @@
 | [0054-spiral-matrix](https://github.com/ankesh716/java-training/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/ankesh716/java-training/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/ankesh716/java-training/tree/master/0056-merge-intervals) |
+| [0064-minimum-path-sum](https://github.com/ankesh716/java-training/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/ankesh716/java-training/tree/master/0073-set-matrix-zeroes) |
 | [0078-subsets](https://github.com/ankesh716/java-training/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/ankesh716/java-training/tree/master/0079-word-search) |
@@ -62,6 +63,7 @@
 | ------- |
 | [0048-rotate-image](https://github.com/ankesh716/java-training/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/ankesh716/java-training/tree/master/0054-spiral-matrix) |
+| [0064-minimum-path-sum](https://github.com/ankesh716/java-training/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/ankesh716/java-training/tree/master/0073-set-matrix-zeroes) |
 | [0079-word-search](https://github.com/ankesh716/java-training/tree/master/0079-word-search) |
 | [0200-number-of-islands](https://github.com/ankesh716/java-training/tree/master/0200-number-of-islands) |
@@ -146,6 +148,7 @@
 | ------- |
 | [0022-generate-parentheses](https://github.com/ankesh716/java-training/tree/master/0022-generate-parentheses) |
 | [0055-jump-game](https://github.com/ankesh716/java-training/tree/master/0055-jump-game) |
+| [0064-minimum-path-sum](https://github.com/ankesh716/java-training/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/ankesh716/java-training/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/ankesh716/java-training/tree/master/0118-pascals-triangle) |
 | [0376-wiggle-subsequence](https://github.com/ankesh716/java-training/tree/master/0376-wiggle-subsequence) |
