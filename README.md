@@ -35,6 +35,7 @@
 | [0733-flood-fill](https://github.com/ankesh716/java-training/tree/master/0733-flood-fill) |
 | [0875-koko-eating-bananas](https://github.com/ankesh716/java-training/tree/master/0875-koko-eating-bananas) |
 | [0912-sort-an-array](https://github.com/ankesh716/java-training/tree/master/0912-sort-an-array) |
+| [0994-rotting-oranges](https://github.com/ankesh716/java-training/tree/master/0994-rotting-oranges) |
 | [0997-find-the-town-judge](https://github.com/ankesh716/java-training/tree/master/0997-find-the-town-judge) |
 | [1260-shift-2d-grid](https://github.com/ankesh716/java-training/tree/master/1260-shift-2d-grid) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/ankesh716/java-training/tree/master/1431-kids-with-the-greatest-number-of-candies) |
@@ -63,6 +64,7 @@
 | [0695-max-area-of-island](https://github.com/ankesh716/java-training/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/ankesh716/java-training/tree/master/0733-flood-fill) |
 | [0797-all-paths-from-source-to-target](https://github.com/ankesh716/java-training/tree/master/0797-all-paths-from-source-to-target) |
+| [0994-rotting-oranges](https://github.com/ankesh716/java-training/tree/master/0994-rotting-oranges) |
 ## Union-Find
 |  |
 | ------- |
@@ -81,6 +83,7 @@
 | [0289-game-of-life](https://github.com/ankesh716/java-training/tree/master/0289-game-of-life) |
 | [0695-max-area-of-island](https://github.com/ankesh716/java-training/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/ankesh716/java-training/tree/master/0733-flood-fill) |
+| [0994-rotting-oranges](https://github.com/ankesh716/java-training/tree/master/0994-rotting-oranges) |
 | [1260-shift-2d-grid](https://github.com/ankesh716/java-training/tree/master/1260-shift-2d-grid) |
 | [2022-convert-1d-array-into-2d-array](https://github.com/ankesh716/java-training/tree/master/2022-convert-1d-array-into-2d-array) |
 ## Math
