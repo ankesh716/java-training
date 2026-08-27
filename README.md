@@ -55,6 +55,7 @@
 | [0695-max-area-of-island](https://github.com/ankesh716/java-training/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/ankesh716/java-training/tree/master/0733-flood-fill) |
 | [0797-all-paths-from-source-to-target](https://github.com/ankesh716/java-training/tree/master/0797-all-paths-from-source-to-target) |
+| [0841-keys-and-rooms](https://github.com/ankesh716/java-training/tree/master/0841-keys-and-rooms) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -64,6 +65,7 @@
 | [0695-max-area-of-island](https://github.com/ankesh716/java-training/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/ankesh716/java-training/tree/master/0733-flood-fill) |
 | [0797-all-paths-from-source-to-target](https://github.com/ankesh716/java-training/tree/master/0797-all-paths-from-source-to-target) |
+| [0841-keys-and-rooms](https://github.com/ankesh716/java-training/tree/master/0841-keys-and-rooms) |
 | [0994-rotting-oranges](https://github.com/ankesh716/java-training/tree/master/0994-rotting-oranges) |
 ## Union-Find
 |  |
@@ -244,6 +246,7 @@
 | ------- |
 | [0207-course-schedule](https://github.com/ankesh716/java-training/tree/master/0207-course-schedule) |
 | [0797-all-paths-from-source-to-target](https://github.com/ankesh716/java-training/tree/master/0797-all-paths-from-source-to-target) |
+| [0841-keys-and-rooms](https://github.com/ankesh716/java-training/tree/master/0841-keys-and-rooms) |
 | [0997-find-the-town-judge](https://github.com/ankesh716/java-training/tree/master/0997-find-the-town-judge) |
 | [1791-find-center-of-star-graph](https://github.com/ankesh716/java-training/tree/master/1791-find-center-of-star-graph) |
 ## Topological Sort
