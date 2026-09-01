@@ -64,6 +64,7 @@
 | [0102-binary-tree-level-order-traversal](https://github.com/ankesh716/java-training/tree/master/0102-binary-tree-level-order-traversal) |
 | [0200-number-of-islands](https://github.com/ankesh716/java-training/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/ankesh716/java-training/tree/master/0207-course-schedule) |
+| [0301-remove-invalid-parentheses](https://github.com/ankesh716/java-training/tree/master/0301-remove-invalid-parentheses) |
 | [0695-max-area-of-island](https://github.com/ankesh716/java-training/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/ankesh716/java-training/tree/master/0733-flood-fill) |
 | [0797-all-paths-from-source-to-target](https://github.com/ankesh716/java-training/tree/master/0797-all-paths-from-source-to-target) |
@@ -152,6 +153,7 @@
 | [0022-generate-parentheses](https://github.com/ankesh716/java-training/tree/master/0022-generate-parentheses) |
 | [0079-word-search](https://github.com/ankesh716/java-training/tree/master/0079-word-search) |
 | [0165-compare-version-numbers](https://github.com/ankesh716/java-training/tree/master/0165-compare-version-numbers) |
+| [0301-remove-invalid-parentheses](https://github.com/ankesh716/java-training/tree/master/0301-remove-invalid-parentheses) |
 | [0344-reverse-string](https://github.com/ankesh716/java-training/tree/master/0344-reverse-string) |
 | [0392-is-subsequence](https://github.com/ankesh716/java-training/tree/master/0392-is-subsequence) |
 | [0844-backspace-string-compare](https://github.com/ankesh716/java-training/tree/master/0844-backspace-string-compare) |
@@ -320,6 +322,7 @@
 | [0046-permutations](https://github.com/ankesh716/java-training/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/ankesh716/java-training/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/ankesh716/java-training/tree/master/0079-word-search) |
+| [0301-remove-invalid-parentheses](https://github.com/ankesh716/java-training/tree/master/0301-remove-invalid-parentheses) |
 | [0494-target-sum](https://github.com/ankesh716/java-training/tree/master/0494-target-sum) |
 | [0797-all-paths-from-source-to-target](https://github.com/ankesh716/java-training/tree/master/0797-all-paths-from-source-to-target) |
 ## Bracket Sequences
