@@ -42,6 +42,7 @@
 | [1528-shuffle-string](https://github.com/ankesh716/java-training/tree/master/1528-shuffle-string) |
 | [1701-average-waiting-time](https://github.com/ankesh716/java-training/tree/master/1701-average-waiting-time) |
 | [1732-find-the-highest-altitude](https://github.com/ankesh716/java-training/tree/master/1732-find-the-highest-altitude) |
+| [1899-merge-triplets-to-form-target-triplet](https://github.com/ankesh716/java-training/tree/master/1899-merge-triplets-to-form-target-triplet) |
 | [2022-convert-1d-array-into-2d-array](https://github.com/ankesh716/java-training/tree/master/2022-convert-1d-array-into-2d-array) |
 ## Depth-First Search
 |  |
@@ -299,6 +300,7 @@
 | [0134-gas-station](https://github.com/ankesh716/java-training/tree/master/0134-gas-station) |
 | [0376-wiggle-subsequence](https://github.com/ankesh716/java-training/tree/master/0376-wiggle-subsequence) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/ankesh716/java-training/tree/master/0581-shortest-unsorted-continuous-subarray) |
+| [1899-merge-triplets-to-form-target-triplet](https://github.com/ankesh716/java-training/tree/master/1899-merge-triplets-to-form-target-triplet) |
 ## Monotonic Stack
 |  |
 | ------- |
