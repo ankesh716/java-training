@@ -18,6 +18,7 @@
 | [0079-word-search](https://github.com/ankesh716/java-training/tree/master/0079-word-search) |
 | [0118-pascals-triangle](https://github.com/ankesh716/java-training/tree/master/0118-pascals-triangle) |
 | [0134-gas-station](https://github.com/ankesh716/java-training/tree/master/0134-gas-station) |
+| [0136-single-number](https://github.com/ankesh716/java-training/tree/master/0136-single-number) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ankesh716/java-training/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0200-number-of-islands](https://github.com/ankesh716/java-training/tree/master/0200-number-of-islands) |
 | [0209-minimum-size-subarray-sum](https://github.com/ankesh716/java-training/tree/master/0209-minimum-size-subarray-sum) |
@@ -102,6 +103,7 @@
 |  |
 | ------- |
 | [0078-subsets](https://github.com/ankesh716/java-training/tree/master/0078-subsets) |
+| [0136-single-number](https://github.com/ankesh716/java-training/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/ankesh716/java-training/tree/master/0231-power-of-two) |
 ## Recursion
 |  |
