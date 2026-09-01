@@ -104,6 +104,7 @@
 | ------- |
 | [0078-subsets](https://github.com/ankesh716/java-training/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/ankesh716/java-training/tree/master/0136-single-number) |
+| [0191-number-of-1-bits](https://github.com/ankesh716/java-training/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/ankesh716/java-training/tree/master/0231-power-of-two) |
 ## Recursion
 |  |
@@ -274,6 +275,7 @@
 ## Divide and Conquer
 |  |
 | ------- |
+| [0191-number-of-1-bits](https://github.com/ankesh716/java-training/tree/master/0191-number-of-1-bits) |
 | [0912-sort-an-array](https://github.com/ankesh716/java-training/tree/master/0912-sort-an-array) |
 ## Heap (Priority Queue)
 |  |
