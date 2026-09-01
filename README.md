@@ -106,6 +106,7 @@
 | [0136-single-number](https://github.com/ankesh716/java-training/tree/master/0136-single-number) |
 | [0191-number-of-1-bits](https://github.com/ankesh716/java-training/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/ankesh716/java-training/tree/master/0231-power-of-two) |
+| [0338-counting-bits](https://github.com/ankesh716/java-training/tree/master/0338-counting-bits) |
 ## Recursion
 |  |
 | ------- |
@@ -174,6 +175,7 @@
 | [0070-climbing-stairs](https://github.com/ankesh716/java-training/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/ankesh716/java-training/tree/master/0118-pascals-triangle) |
 | [0221-maximal-square](https://github.com/ankesh716/java-training/tree/master/0221-maximal-square) |
+| [0338-counting-bits](https://github.com/ankesh716/java-training/tree/master/0338-counting-bits) |
 | [0376-wiggle-subsequence](https://github.com/ankesh716/java-training/tree/master/0376-wiggle-subsequence) |
 | [0392-is-subsequence](https://github.com/ankesh716/java-training/tree/master/0392-is-subsequence) |
 | [0494-target-sum](https://github.com/ankesh716/java-training/tree/master/0494-target-sum) |
