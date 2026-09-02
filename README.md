@@ -155,6 +155,7 @@
 | [0017-letter-combinations-of-a-phone-number](https://github.com/ankesh716/java-training/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/ankesh716/java-training/tree/master/0022-generate-parentheses) |
 | [0079-word-search](https://github.com/ankesh716/java-training/tree/master/0079-word-search) |
+| [0131-palindrome-partitioning](https://github.com/ankesh716/java-training/tree/master/0131-palindrome-partitioning) |
 | [0165-compare-version-numbers](https://github.com/ankesh716/java-training/tree/master/0165-compare-version-numbers) |
 | [0301-remove-invalid-parentheses](https://github.com/ankesh716/java-training/tree/master/0301-remove-invalid-parentheses) |
 | [0344-reverse-string](https://github.com/ankesh716/java-training/tree/master/0344-reverse-string) |
@@ -179,6 +180,7 @@
 | [0064-minimum-path-sum](https://github.com/ankesh716/java-training/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/ankesh716/java-training/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/ankesh716/java-training/tree/master/0118-pascals-triangle) |
+| [0131-palindrome-partitioning](https://github.com/ankesh716/java-training/tree/master/0131-palindrome-partitioning) |
 | [0221-maximal-square](https://github.com/ankesh716/java-training/tree/master/0221-maximal-square) |
 | [0338-counting-bits](https://github.com/ankesh716/java-training/tree/master/0338-counting-bits) |
 | [0376-wiggle-subsequence](https://github.com/ankesh716/java-training/tree/master/0376-wiggle-subsequence) |
@@ -328,6 +330,7 @@
 | [0046-permutations](https://github.com/ankesh716/java-training/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/ankesh716/java-training/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/ankesh716/java-training/tree/master/0079-word-search) |
+| [0131-palindrome-partitioning](https://github.com/ankesh716/java-training/tree/master/0131-palindrome-partitioning) |
 | [0301-remove-invalid-parentheses](https://github.com/ankesh716/java-training/tree/master/0301-remove-invalid-parentheses) |
 | [0494-target-sum](https://github.com/ankesh716/java-training/tree/master/0494-target-sum) |
 | [0797-all-paths-from-source-to-target](https://github.com/ankesh716/java-training/tree/master/0797-all-paths-from-source-to-target) |
