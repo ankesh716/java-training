@@ -147,6 +147,7 @@
 | [0344-reverse-string](https://github.com/ankesh716/java-training/tree/master/0344-reverse-string) |
 | [0392-is-subsequence](https://github.com/ankesh716/java-training/tree/master/0392-is-subsequence) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/ankesh716/java-training/tree/master/0581-shortest-unsorted-continuous-subarray) |
+| [0763-partition-labels](https://github.com/ankesh716/java-training/tree/master/0763-partition-labels) |
 | [0844-backspace-string-compare](https://github.com/ankesh716/java-training/tree/master/0844-backspace-string-compare) |
 | [0986-interval-list-intersections](https://github.com/ankesh716/java-training/tree/master/0986-interval-list-intersections) |
 | [1768-merge-strings-alternately](https://github.com/ankesh716/java-training/tree/master/1768-merge-strings-alternately) |
@@ -164,6 +165,7 @@
 | [0301-remove-invalid-parentheses](https://github.com/ankesh716/java-training/tree/master/0301-remove-invalid-parentheses) |
 | [0344-reverse-string](https://github.com/ankesh716/java-training/tree/master/0344-reverse-string) |
 | [0392-is-subsequence](https://github.com/ankesh716/java-training/tree/master/0392-is-subsequence) |
+| [0763-partition-labels](https://github.com/ankesh716/java-training/tree/master/0763-partition-labels) |
 | [0844-backspace-string-compare](https://github.com/ankesh716/java-training/tree/master/0844-backspace-string-compare) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/ankesh716/java-training/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1528-shuffle-string](https://github.com/ankesh716/java-training/tree/master/1528-shuffle-string) |
@@ -214,6 +216,7 @@
 | [0017-letter-combinations-of-a-phone-number](https://github.com/ankesh716/java-training/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0073-set-matrix-zeroes](https://github.com/ankesh716/java-training/tree/master/0073-set-matrix-zeroes) |
 | [0560-subarray-sum-equals-k](https://github.com/ankesh716/java-training/tree/master/0560-subarray-sum-equals-k) |
+| [0763-partition-labels](https://github.com/ankesh716/java-training/tree/master/0763-partition-labels) |
 | [0997-find-the-town-judge](https://github.com/ankesh716/java-training/tree/master/0997-find-the-town-judge) |
 ## Linked List
 |  |
@@ -324,6 +327,7 @@
 | [0376-wiggle-subsequence](https://github.com/ankesh716/java-training/tree/master/0376-wiggle-subsequence) |
 | [0435-non-overlapping-intervals](https://github.com/ankesh716/java-training/tree/master/0435-non-overlapping-intervals) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/ankesh716/java-training/tree/master/0581-shortest-unsorted-continuous-subarray) |
+| [0763-partition-labels](https://github.com/ankesh716/java-training/tree/master/0763-partition-labels) |
 | [1899-merge-triplets-to-form-target-triplet](https://github.com/ankesh716/java-training/tree/master/1899-merge-triplets-to-form-target-triplet) |
 ## Monotonic Stack
 |  |
