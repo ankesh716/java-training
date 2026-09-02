@@ -26,6 +26,7 @@
 | [0283-move-zeroes](https://github.com/ankesh716/java-training/tree/master/0283-move-zeroes) |
 | [0289-game-of-life](https://github.com/ankesh716/java-training/tree/master/0289-game-of-life) |
 | [0376-wiggle-subsequence](https://github.com/ankesh716/java-training/tree/master/0376-wiggle-subsequence) |
+| [0435-non-overlapping-intervals](https://github.com/ankesh716/java-training/tree/master/0435-non-overlapping-intervals) |
 | [0494-target-sum](https://github.com/ankesh716/java-training/tree/master/0494-target-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/ankesh716/java-training/tree/master/0560-subarray-sum-equals-k) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/ankesh716/java-training/tree/master/0581-shortest-unsorted-continuous-subarray) |
@@ -189,6 +190,7 @@
 | [0338-counting-bits](https://github.com/ankesh716/java-training/tree/master/0338-counting-bits) |
 | [0376-wiggle-subsequence](https://github.com/ankesh716/java-training/tree/master/0376-wiggle-subsequence) |
 | [0392-is-subsequence](https://github.com/ankesh716/java-training/tree/master/0392-is-subsequence) |
+| [0435-non-overlapping-intervals](https://github.com/ankesh716/java-training/tree/master/0435-non-overlapping-intervals) |
 | [0494-target-sum](https://github.com/ankesh716/java-training/tree/master/0494-target-sum) |
 ## Sliding Window
 |  |
@@ -282,6 +284,7 @@
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/ankesh716/java-training/tree/master/0056-merge-intervals) |
+| [0435-non-overlapping-intervals](https://github.com/ankesh716/java-training/tree/master/0435-non-overlapping-intervals) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/ankesh716/java-training/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0912-sort-an-array](https://github.com/ankesh716/java-training/tree/master/0912-sort-an-array) |
 ## Quicksort
@@ -319,6 +322,7 @@
 | [0055-jump-game](https://github.com/ankesh716/java-training/tree/master/0055-jump-game) |
 | [0134-gas-station](https://github.com/ankesh716/java-training/tree/master/0134-gas-station) |
 | [0376-wiggle-subsequence](https://github.com/ankesh716/java-training/tree/master/0376-wiggle-subsequence) |
+| [0435-non-overlapping-intervals](https://github.com/ankesh716/java-training/tree/master/0435-non-overlapping-intervals) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/ankesh716/java-training/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [1899-merge-triplets-to-form-target-triplet](https://github.com/ankesh716/java-training/tree/master/1899-merge-triplets-to-form-target-triplet) |
 ## Monotonic Stack
