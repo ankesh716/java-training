@@ -59,6 +59,7 @@
 | [0230-kth-smallest-element-in-a-bst](https://github.com/ankesh716/java-training/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/ankesh716/java-training/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/ankesh716/java-training/tree/master/0543-diameter-of-binary-tree) |
+| [0547-number-of-provinces](https://github.com/ankesh716/java-training/tree/master/0547-number-of-provinces) |
 | [0695-max-area-of-island](https://github.com/ankesh716/java-training/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/ankesh716/java-training/tree/master/0733-flood-fill) |
 | [0797-all-paths-from-source-to-target](https://github.com/ankesh716/java-training/tree/master/0797-all-paths-from-source-to-target) |
@@ -71,6 +72,7 @@
 | [0200-number-of-islands](https://github.com/ankesh716/java-training/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/ankesh716/java-training/tree/master/0207-course-schedule) |
 | [0301-remove-invalid-parentheses](https://github.com/ankesh716/java-training/tree/master/0301-remove-invalid-parentheses) |
+| [0547-number-of-provinces](https://github.com/ankesh716/java-training/tree/master/0547-number-of-provinces) |
 | [0695-max-area-of-island](https://github.com/ankesh716/java-training/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/ankesh716/java-training/tree/master/0733-flood-fill) |
 | [0797-all-paths-from-source-to-target](https://github.com/ankesh716/java-training/tree/master/0797-all-paths-from-source-to-target) |
@@ -81,6 +83,7 @@
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/ankesh716/java-training/tree/master/0200-number-of-islands) |
+| [0547-number-of-provinces](https://github.com/ankesh716/java-training/tree/master/0547-number-of-provinces) |
 | [0695-max-area-of-island](https://github.com/ankesh716/java-training/tree/master/0695-max-area-of-island) |
 | [1971-find-if-path-exists-in-graph](https://github.com/ankesh716/java-training/tree/master/1971-find-if-path-exists-in-graph) |
 ## Matrix
@@ -282,6 +285,7 @@
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/ankesh716/java-training/tree/master/0207-course-schedule) |
+| [0547-number-of-provinces](https://github.com/ankesh716/java-training/tree/master/0547-number-of-provinces) |
 | [0797-all-paths-from-source-to-target](https://github.com/ankesh716/java-training/tree/master/0797-all-paths-from-source-to-target) |
 | [0841-keys-and-rooms](https://github.com/ankesh716/java-training/tree/master/0841-keys-and-rooms) |
 | [0997-find-the-town-judge](https://github.com/ankesh716/java-training/tree/master/0997-find-the-town-judge) |
