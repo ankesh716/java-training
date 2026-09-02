@@ -114,6 +114,7 @@
 | [0231-power-of-two](https://github.com/ankesh716/java-training/tree/master/0231-power-of-two) |
 | [0241-different-ways-to-add-parentheses](https://github.com/ankesh716/java-training/tree/master/0241-different-ways-to-add-parentheses) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/ankesh716/java-training/tree/master/1071-greatest-common-divisor-of-strings) |
+| [1359-count-all-valid-pickup-and-delivery-options](https://github.com/ankesh716/java-training/tree/master/1359-count-all-valid-pickup-and-delivery-options) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -209,6 +210,7 @@
 | [0494-target-sum](https://github.com/ankesh716/java-training/tree/master/0494-target-sum) |
 | [0918-maximum-sum-circular-subarray](https://github.com/ankesh716/java-training/tree/master/0918-maximum-sum-circular-subarray) |
 | [1143-longest-common-subsequence](https://github.com/ankesh716/java-training/tree/master/1143-longest-common-subsequence) |
+| [1359-count-all-valid-pickup-and-delivery-options](https://github.com/ankesh716/java-training/tree/master/1359-count-all-valid-pickup-and-delivery-options) |
 ## Sliding Window
 |  |
 | ------- |
@@ -419,4 +421,8 @@
 |  |
 | ------- |
 | [1116-print-zero-even-odd](https://github.com/ankesh716/java-training/tree/master/1116-print-zero-even-odd) |
+## Combinatorics
+|  |
+| ------- |
+| [1359-count-all-valid-pickup-and-delivery-options](https://github.com/ankesh716/java-training/tree/master/1359-count-all-valid-pickup-and-delivery-options) |
 <!---LeetCode Topics End-->
