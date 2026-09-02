@@ -38,6 +38,7 @@
 | [0733-flood-fill](https://github.com/ankesh716/java-training/tree/master/0733-flood-fill) |
 | [0875-koko-eating-bananas](https://github.com/ankesh716/java-training/tree/master/0875-koko-eating-bananas) |
 | [0912-sort-an-array](https://github.com/ankesh716/java-training/tree/master/0912-sort-an-array) |
+| [0918-maximum-sum-circular-subarray](https://github.com/ankesh716/java-training/tree/master/0918-maximum-sum-circular-subarray) |
 | [0986-interval-list-intersections](https://github.com/ankesh716/java-training/tree/master/0986-interval-list-intersections) |
 | [0994-rotting-oranges](https://github.com/ankesh716/java-training/tree/master/0994-rotting-oranges) |
 | [0997-find-the-town-judge](https://github.com/ankesh716/java-training/tree/master/0997-find-the-town-judge) |
@@ -198,6 +199,7 @@
 | [0392-is-subsequence](https://github.com/ankesh716/java-training/tree/master/0392-is-subsequence) |
 | [0435-non-overlapping-intervals](https://github.com/ankesh716/java-training/tree/master/0435-non-overlapping-intervals) |
 | [0494-target-sum](https://github.com/ankesh716/java-training/tree/master/0494-target-sum) |
+| [0918-maximum-sum-circular-subarray](https://github.com/ankesh716/java-training/tree/master/0918-maximum-sum-circular-subarray) |
 | [1143-longest-common-subsequence](https://github.com/ankesh716/java-training/tree/master/1143-longest-common-subsequence) |
 ## Sliding Window
 |  |
@@ -306,6 +308,7 @@
 | ------- |
 | [0191-number-of-1-bits](https://github.com/ankesh716/java-training/tree/master/0191-number-of-1-bits) |
 | [0912-sort-an-array](https://github.com/ankesh716/java-training/tree/master/0912-sort-an-array) |
+| [0918-maximum-sum-circular-subarray](https://github.com/ankesh716/java-training/tree/master/0918-maximum-sum-circular-subarray) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -384,4 +387,12 @@
 |  |
 | ------- |
 | [0895-maximum-frequency-stack](https://github.com/ankesh716/java-training/tree/master/0895-maximum-frequency-stack) |
+## Queue
+|  |
+| ------- |
+| [0918-maximum-sum-circular-subarray](https://github.com/ankesh716/java-training/tree/master/0918-maximum-sum-circular-subarray) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0918-maximum-sum-circular-subarray](https://github.com/ankesh716/java-training/tree/master/0918-maximum-sum-circular-subarray) |
 <!---LeetCode Topics End-->
