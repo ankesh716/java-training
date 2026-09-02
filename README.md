@@ -170,6 +170,7 @@
 | [0763-partition-labels](https://github.com/ankesh716/java-training/tree/master/0763-partition-labels) |
 | [0844-backspace-string-compare](https://github.com/ankesh716/java-training/tree/master/0844-backspace-string-compare) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/ankesh716/java-training/tree/master/1071-greatest-common-divisor-of-strings) |
+| [1143-longest-common-subsequence](https://github.com/ankesh716/java-training/tree/master/1143-longest-common-subsequence) |
 | [1528-shuffle-string](https://github.com/ankesh716/java-training/tree/master/1528-shuffle-string) |
 | [1768-merge-strings-alternately](https://github.com/ankesh716/java-training/tree/master/1768-merge-strings-alternately) |
 ## Euclidean Algorithm
@@ -196,6 +197,7 @@
 | [0392-is-subsequence](https://github.com/ankesh716/java-training/tree/master/0392-is-subsequence) |
 | [0435-non-overlapping-intervals](https://github.com/ankesh716/java-training/tree/master/0435-non-overlapping-intervals) |
 | [0494-target-sum](https://github.com/ankesh716/java-training/tree/master/0494-target-sum) |
+| [1143-longest-common-subsequence](https://github.com/ankesh716/java-training/tree/master/1143-longest-common-subsequence) |
 ## Sliding Window
 |  |
 | ------- |
@@ -371,4 +373,8 @@
 |  |
 | ------- |
 | [0986-interval-list-intersections](https://github.com/ankesh716/java-training/tree/master/0986-interval-list-intersections) |
+## Longest Common Subsequence
+|  |
+| ------- |
+| [1143-longest-common-subsequence](https://github.com/ankesh716/java-training/tree/master/1143-longest-common-subsequence) |
 <!---LeetCode Topics End-->
