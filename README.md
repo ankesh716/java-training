@@ -101,6 +101,7 @@
 | [0048-rotate-image](https://github.com/ankesh716/java-training/tree/master/0048-rotate-image) |
 | [0070-climbing-stairs](https://github.com/ankesh716/java-training/tree/master/0070-climbing-stairs) |
 | [0231-power-of-two](https://github.com/ankesh716/java-training/tree/master/0231-power-of-two) |
+| [0241-different-ways-to-add-parentheses](https://github.com/ankesh716/java-training/tree/master/0241-different-ways-to-add-parentheses) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/ankesh716/java-training/tree/master/1071-greatest-common-divisor-of-strings) |
 ## Bit Manipulation
 |  |
@@ -115,6 +116,7 @@
 | ------- |
 | [0143-reorder-list](https://github.com/ankesh716/java-training/tree/master/0143-reorder-list) |
 | [0231-power-of-two](https://github.com/ankesh716/java-training/tree/master/0231-power-of-two) |
+| [0241-different-ways-to-add-parentheses](https://github.com/ankesh716/java-training/tree/master/0241-different-ways-to-add-parentheses) |
 ## Design
 |  |
 | ------- |
@@ -157,6 +159,7 @@
 | [0079-word-search](https://github.com/ankesh716/java-training/tree/master/0079-word-search) |
 | [0131-palindrome-partitioning](https://github.com/ankesh716/java-training/tree/master/0131-palindrome-partitioning) |
 | [0165-compare-version-numbers](https://github.com/ankesh716/java-training/tree/master/0165-compare-version-numbers) |
+| [0241-different-ways-to-add-parentheses](https://github.com/ankesh716/java-training/tree/master/0241-different-ways-to-add-parentheses) |
 | [0301-remove-invalid-parentheses](https://github.com/ankesh716/java-training/tree/master/0301-remove-invalid-parentheses) |
 | [0344-reverse-string](https://github.com/ankesh716/java-training/tree/master/0344-reverse-string) |
 | [0392-is-subsequence](https://github.com/ankesh716/java-training/tree/master/0392-is-subsequence) |
@@ -182,6 +185,7 @@
 | [0118-pascals-triangle](https://github.com/ankesh716/java-training/tree/master/0118-pascals-triangle) |
 | [0131-palindrome-partitioning](https://github.com/ankesh716/java-training/tree/master/0131-palindrome-partitioning) |
 | [0221-maximal-square](https://github.com/ankesh716/java-training/tree/master/0221-maximal-square) |
+| [0241-different-ways-to-add-parentheses](https://github.com/ankesh716/java-training/tree/master/0241-different-ways-to-add-parentheses) |
 | [0338-counting-bits](https://github.com/ankesh716/java-training/tree/master/0338-counting-bits) |
 | [0376-wiggle-subsequence](https://github.com/ankesh716/java-training/tree/master/0376-wiggle-subsequence) |
 | [0392-is-subsequence](https://github.com/ankesh716/java-training/tree/master/0392-is-subsequence) |
@@ -338,10 +342,12 @@
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/ankesh716/java-training/tree/master/0022-generate-parentheses) |
+| [0241-different-ways-to-add-parentheses](https://github.com/ankesh716/java-training/tree/master/0241-different-ways-to-add-parentheses) |
 ## Memoization
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/ankesh716/java-training/tree/master/0070-climbing-stairs) |
+| [0241-different-ways-to-add-parentheses](https://github.com/ankesh716/java-training/tree/master/0241-different-ways-to-add-parentheses) |
 ## Knapsack Problem
 |  |
 | ------- |
