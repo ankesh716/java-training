@@ -123,6 +123,7 @@
 ## Design
 |  |
 | ------- |
+| [0895-maximum-frequency-stack](https://github.com/ankesh716/java-training/tree/master/0895-maximum-frequency-stack) |
 | [1603-design-parking-system](https://github.com/ankesh716/java-training/tree/master/1603-design-parking-system) |
 ## Simulation
 |  |
@@ -221,6 +222,7 @@
 | [0073-set-matrix-zeroes](https://github.com/ankesh716/java-training/tree/master/0073-set-matrix-zeroes) |
 | [0560-subarray-sum-equals-k](https://github.com/ankesh716/java-training/tree/master/0560-subarray-sum-equals-k) |
 | [0763-partition-labels](https://github.com/ankesh716/java-training/tree/master/0763-partition-labels) |
+| [0895-maximum-frequency-stack](https://github.com/ankesh716/java-training/tree/master/0895-maximum-frequency-stack) |
 | [0997-find-the-town-judge](https://github.com/ankesh716/java-training/tree/master/0997-find-the-town-judge) |
 ## Linked List
 |  |
@@ -233,6 +235,7 @@
 | [0143-reorder-list](https://github.com/ankesh716/java-training/tree/master/0143-reorder-list) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/ankesh716/java-training/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0844-backspace-string-compare](https://github.com/ankesh716/java-training/tree/master/0844-backspace-string-compare) |
+| [0895-maximum-frequency-stack](https://github.com/ankesh716/java-training/tree/master/0895-maximum-frequency-stack) |
 ## Tree
 |  |
 | ------- |
@@ -377,4 +380,8 @@
 |  |
 | ------- |
 | [1143-longest-common-subsequence](https://github.com/ankesh716/java-training/tree/master/1143-longest-common-subsequence) |
+## Ordered Set
+|  |
+| ------- |
+| [0895-maximum-frequency-stack](https://github.com/ankesh716/java-training/tree/master/0895-maximum-frequency-stack) |
 <!---LeetCode Topics End-->
