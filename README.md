@@ -36,6 +36,7 @@
 | [0733-flood-fill](https://github.com/ankesh716/java-training/tree/master/0733-flood-fill) |
 | [0875-koko-eating-bananas](https://github.com/ankesh716/java-training/tree/master/0875-koko-eating-bananas) |
 | [0912-sort-an-array](https://github.com/ankesh716/java-training/tree/master/0912-sort-an-array) |
+| [0986-interval-list-intersections](https://github.com/ankesh716/java-training/tree/master/0986-interval-list-intersections) |
 | [0994-rotting-oranges](https://github.com/ankesh716/java-training/tree/master/0994-rotting-oranges) |
 | [0997-find-the-town-judge](https://github.com/ankesh716/java-training/tree/master/0997-find-the-town-judge) |
 | [1004-max-consecutive-ones-iii](https://github.com/ankesh716/java-training/tree/master/1004-max-consecutive-ones-iii) |
@@ -144,6 +145,7 @@
 | [0392-is-subsequence](https://github.com/ankesh716/java-training/tree/master/0392-is-subsequence) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/ankesh716/java-training/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0844-backspace-string-compare](https://github.com/ankesh716/java-training/tree/master/0844-backspace-string-compare) |
+| [0986-interval-list-intersections](https://github.com/ankesh716/java-training/tree/master/0986-interval-list-intersections) |
 | [1768-merge-strings-alternately](https://github.com/ankesh716/java-training/tree/master/1768-merge-strings-alternately) |
 ## String
 |  |
@@ -345,4 +347,8 @@
 |  |
 | ------- |
 | [0494-target-sum](https://github.com/ankesh716/java-training/tree/master/0494-target-sum) |
+## Sweep Line
+|  |
+| ------- |
+| [0986-interval-list-intersections](https://github.com/ankesh716/java-training/tree/master/0986-interval-list-intersections) |
 <!---LeetCode Topics End-->
