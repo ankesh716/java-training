@@ -7,6 +7,7 @@
 | [0001-two-sum](https://github.com/ankesh716/java-training/tree/master/0001-two-sum) |
 | [0033-search-in-rotated-sorted-array](https://github.com/ankesh716/java-training/tree/master/0033-search-in-rotated-sorted-array) |
 | [0039-combination-sum](https://github.com/ankesh716/java-training/tree/master/0039-combination-sum) |
+| [0042-trapping-rain-water](https://github.com/ankesh716/java-training/tree/master/0042-trapping-rain-water) |
 | [0046-permutations](https://github.com/ankesh716/java-training/tree/master/0046-permutations) |
 | [0048-rotate-image](https://github.com/ankesh716/java-training/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/ankesh716/java-training/tree/master/0054-spiral-matrix) |
@@ -153,6 +154,7 @@
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/ankesh716/java-training/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0042-trapping-rain-water](https://github.com/ankesh716/java-training/tree/master/0042-trapping-rain-water) |
 | [0143-reorder-list](https://github.com/ankesh716/java-training/tree/master/0143-reorder-list) |
 | [0165-compare-version-numbers](https://github.com/ankesh716/java-training/tree/master/0165-compare-version-numbers) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ankesh716/java-training/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -196,6 +198,7 @@
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/ankesh716/java-training/tree/master/0022-generate-parentheses) |
+| [0042-trapping-rain-water](https://github.com/ankesh716/java-training/tree/master/0042-trapping-rain-water) |
 | [0055-jump-game](https://github.com/ankesh716/java-training/tree/master/0055-jump-game) |
 | [0064-minimum-path-sum](https://github.com/ankesh716/java-training/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/ankesh716/java-training/tree/master/0070-climbing-stairs) |
@@ -244,6 +247,7 @@
 ## Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/ankesh716/java-training/tree/master/0042-trapping-rain-water) |
 | [0143-reorder-list](https://github.com/ankesh716/java-training/tree/master/0143-reorder-list) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/ankesh716/java-training/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0844-backspace-string-compare](https://github.com/ankesh716/java-training/tree/master/0844-backspace-string-compare) |
@@ -356,6 +360,7 @@
 ## Monotonic Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/ankesh716/java-training/tree/master/0042-trapping-rain-water) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/ankesh716/java-training/tree/master/0581-shortest-unsorted-continuous-subarray) |
 ## Backtracking
 |  |
