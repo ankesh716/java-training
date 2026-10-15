@@ -24,6 +24,7 @@
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ankesh716/java-training/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0200-number-of-islands](https://github.com/ankesh716/java-training/tree/master/0200-number-of-islands) |
 | [0209-minimum-size-subarray-sum](https://github.com/ankesh716/java-training/tree/master/0209-minimum-size-subarray-sum) |
+| [0217-contains-duplicate](https://github.com/ankesh716/java-training/tree/master/0217-contains-duplicate) |
 | [0221-maximal-square](https://github.com/ankesh716/java-training/tree/master/0221-maximal-square) |
 | [0283-move-zeroes](https://github.com/ankesh716/java-training/tree/master/0283-move-zeroes) |
 | [0289-game-of-life](https://github.com/ankesh716/java-training/tree/master/0289-game-of-life) |
@@ -235,6 +236,7 @@
 | [0012-integer-to-roman](https://github.com/ankesh716/java-training/tree/master/0012-integer-to-roman) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/ankesh716/java-training/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0073-set-matrix-zeroes](https://github.com/ankesh716/java-training/tree/master/0073-set-matrix-zeroes) |
+| [0217-contains-duplicate](https://github.com/ankesh716/java-training/tree/master/0217-contains-duplicate) |
 | [0560-subarray-sum-equals-k](https://github.com/ankesh716/java-training/tree/master/0560-subarray-sum-equals-k) |
 | [0763-partition-labels](https://github.com/ankesh716/java-training/tree/master/0763-partition-labels) |
 | [0895-maximum-frequency-stack](https://github.com/ankesh716/java-training/tree/master/0895-maximum-frequency-stack) |
@@ -314,6 +316,7 @@
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/ankesh716/java-training/tree/master/0056-merge-intervals) |
+| [0217-contains-duplicate](https://github.com/ankesh716/java-training/tree/master/0217-contains-duplicate) |
 | [0435-non-overlapping-intervals](https://github.com/ankesh716/java-training/tree/master/0435-non-overlapping-intervals) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/ankesh716/java-training/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0912-sort-an-array](https://github.com/ankesh716/java-training/tree/master/0912-sort-an-array) |
