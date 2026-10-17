@@ -156,6 +156,7 @@
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/ankesh716/java-training/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0042-trapping-rain-water](https://github.com/ankesh716/java-training/tree/master/0042-trapping-rain-water) |
+| [0125-valid-palindrome](https://github.com/ankesh716/java-training/tree/master/0125-valid-palindrome) |
 | [0143-reorder-list](https://github.com/ankesh716/java-training/tree/master/0143-reorder-list) |
 | [0165-compare-version-numbers](https://github.com/ankesh716/java-training/tree/master/0165-compare-version-numbers) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ankesh716/java-training/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -175,6 +176,7 @@
 | [0017-letter-combinations-of-a-phone-number](https://github.com/ankesh716/java-training/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/ankesh716/java-training/tree/master/0022-generate-parentheses) |
 | [0079-word-search](https://github.com/ankesh716/java-training/tree/master/0079-word-search) |
+| [0125-valid-palindrome](https://github.com/ankesh716/java-training/tree/master/0125-valid-palindrome) |
 | [0131-palindrome-partitioning](https://github.com/ankesh716/java-training/tree/master/0131-palindrome-partitioning) |
 | [0165-compare-version-numbers](https://github.com/ankesh716/java-training/tree/master/0165-compare-version-numbers) |
 | [0241-different-ways-to-add-parentheses](https://github.com/ankesh716/java-training/tree/master/0241-different-ways-to-add-parentheses) |
