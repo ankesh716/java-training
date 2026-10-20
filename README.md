@@ -45,6 +45,7 @@
 | [0994-rotting-oranges](https://github.com/ankesh716/java-training/tree/master/0994-rotting-oranges) |
 | [0997-find-the-town-judge](https://github.com/ankesh716/java-training/tree/master/0997-find-the-town-judge) |
 | [1004-max-consecutive-ones-iii](https://github.com/ankesh716/java-training/tree/master/1004-max-consecutive-ones-iii) |
+| [1046-last-stone-weight](https://github.com/ankesh716/java-training/tree/master/1046-last-stone-weight) |
 | [1260-shift-2d-grid](https://github.com/ankesh716/java-training/tree/master/1260-shift-2d-grid) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/ankesh716/java-training/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1528-shuffle-string](https://github.com/ankesh716/java-training/tree/master/1528-shuffle-string) |
@@ -362,6 +363,7 @@
 | ------- |
 | [0703-kth-largest-element-in-a-stream](https://github.com/ankesh716/java-training/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0912-sort-an-array](https://github.com/ankesh716/java-training/tree/master/0912-sort-an-array) |
+| [1046-last-stone-weight](https://github.com/ankesh716/java-training/tree/master/1046-last-stone-weight) |
 ## Merge Sort
 |  |
 | ------- |
