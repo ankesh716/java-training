@@ -33,7 +33,11 @@ class Solution {
             return true;
         }
 
-        if (p == null || q == null || p.val != q.val) {
+        if (p == null || q == null) {
+            return false;
+        }
+
+        if (p.val != q.val) {
             return false;
         }
 
