@@ -143,6 +143,7 @@
 ## Design
 |  |
 | ------- |
+| [0703-kth-largest-element-in-a-stream](https://github.com/ankesh716/java-training/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0895-maximum-frequency-stack](https://github.com/ankesh716/java-training/tree/master/0895-maximum-frequency-stack) |
 | [1603-design-parking-system](https://github.com/ankesh716/java-training/tree/master/1603-design-parking-system) |
 ## Simulation
@@ -278,6 +279,7 @@
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/ankesh716/java-training/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/ankesh716/java-training/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/ankesh716/java-training/tree/master/0572-subtree-of-another-tree) |
+| [0703-kth-largest-element-in-a-stream](https://github.com/ankesh716/java-training/tree/master/0703-kth-largest-element-in-a-stream) |
 ## Binary Tree
 |  |
 | ------- |
@@ -290,6 +292,7 @@
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/ankesh716/java-training/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/ankesh716/java-training/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/ankesh716/java-training/tree/master/0572-subtree-of-another-tree) |
+| [0703-kth-largest-element-in-a-stream](https://github.com/ankesh716/java-training/tree/master/0703-kth-largest-element-in-a-stream) |
 ## DP on Trees
 |  |
 | ------- |
@@ -302,6 +305,7 @@
 | [0209-minimum-size-subarray-sum](https://github.com/ankesh716/java-training/tree/master/0209-minimum-size-subarray-sum) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/ankesh716/java-training/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/ankesh716/java-training/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0703-kth-largest-element-in-a-stream](https://github.com/ankesh716/java-training/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0704-binary-search](https://github.com/ankesh716/java-training/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/ankesh716/java-training/tree/master/0875-koko-eating-bananas) |
 | [1004-max-consecutive-ones-iii](https://github.com/ankesh716/java-training/tree/master/1004-max-consecutive-ones-iii) |
@@ -356,6 +360,7 @@
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0703-kth-largest-element-in-a-stream](https://github.com/ankesh716/java-training/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0912-sort-an-array](https://github.com/ankesh716/java-training/tree/master/0912-sort-an-array) |
 ## Merge Sort
 |  |
@@ -464,4 +469,8 @@
 |  |
 | ------- |
 | [0572-subtree-of-another-tree](https://github.com/ankesh716/java-training/tree/master/0572-subtree-of-another-tree) |
+## Data Stream
+|  |
+| ------- |
+| [0703-kth-largest-element-in-a-stream](https://github.com/ankesh716/java-training/tree/master/0703-kth-largest-element-in-a-stream) |
 <!---LeetCode Topics End-->
