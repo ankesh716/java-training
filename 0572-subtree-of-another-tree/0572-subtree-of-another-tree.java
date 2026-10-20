@@ -13,24 +13,31 @@
  *     }
  * }
  */
+
 class Solution {
     public boolean isSubtree(TreeNode root, TreeNode subRoot) {
-        String fullTree=preOrderTraversal(root);
-        String subTree=preOrderTraversal(subRoot);
-
-        return fullTree.contains(subTree);
-    }
-
-    private String preOrderTraversal(TreeNode node){
-        if(node==null){
-            return "null";
+        if (root == null) {
+            return false;
         }
 
-        StringBuilder sb=new StringBuilder();
-        sb.append("^").append(node.val).append("^");
-        sb.append(preOrderTraversal(node.left));
-        sb.append(preOrderTraversal(node.right));
+        if (isSameTree(root, subRoot)) {
+            return true;
+        }
 
-        return sb.toString();
+        return isSubtree(root.left, subRoot) ||
+               isSubtree(root.right, subRoot);
+    }
+
+    private boolean isSameTree(TreeNode p, TreeNode q) {
+        if (p == null && q == null) {
+            return true;
+        }
+
+        if (p == null || q == null || p.val != q.val) {
+            return false;
+        }
+
+        return isSameTree(p.left, q.left) &&
+               isSameTree(p.right, q.right);
     }
 }
