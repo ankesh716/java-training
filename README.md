@@ -38,6 +38,7 @@
 | [0704-binary-search](https://github.com/ankesh716/java-training/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/ankesh716/java-training/tree/master/0724-find-pivot-index) |
 | [0733-flood-fill](https://github.com/ankesh716/java-training/tree/master/0733-flood-fill) |
+| [0746-min-cost-climbing-stairs](https://github.com/ankesh716/java-training/tree/master/0746-min-cost-climbing-stairs) |
 | [0875-koko-eating-bananas](https://github.com/ankesh716/java-training/tree/master/0875-koko-eating-bananas) |
 | [0912-sort-an-array](https://github.com/ankesh716/java-training/tree/master/0912-sort-an-array) |
 | [0918-maximum-sum-circular-subarray](https://github.com/ankesh716/java-training/tree/master/0918-maximum-sum-circular-subarray) |
@@ -225,6 +226,7 @@
 | [0392-is-subsequence](https://github.com/ankesh716/java-training/tree/master/0392-is-subsequence) |
 | [0435-non-overlapping-intervals](https://github.com/ankesh716/java-training/tree/master/0435-non-overlapping-intervals) |
 | [0494-target-sum](https://github.com/ankesh716/java-training/tree/master/0494-target-sum) |
+| [0746-min-cost-climbing-stairs](https://github.com/ankesh716/java-training/tree/master/0746-min-cost-climbing-stairs) |
 | [0918-maximum-sum-circular-subarray](https://github.com/ankesh716/java-training/tree/master/0918-maximum-sum-circular-subarray) |
 | [1143-longest-common-subsequence](https://github.com/ankesh716/java-training/tree/master/1143-longest-common-subsequence) |
 | [1359-count-all-valid-pickup-and-delivery-options](https://github.com/ankesh716/java-training/tree/master/1359-count-all-valid-pickup-and-delivery-options) |
