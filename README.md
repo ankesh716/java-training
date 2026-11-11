@@ -133,6 +133,7 @@
 | [0078-subsets](https://github.com/ankesh716/java-training/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/ankesh716/java-training/tree/master/0090-subsets-ii) |
 | [0136-single-number](https://github.com/ankesh716/java-training/tree/master/0136-single-number) |
+| [0190-reverse-bits](https://github.com/ankesh716/java-training/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/ankesh716/java-training/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/ankesh716/java-training/tree/master/0231-power-of-two) |
 | [0338-counting-bits](https://github.com/ankesh716/java-training/tree/master/0338-counting-bits) |
@@ -357,6 +358,7 @@
 ## Divide and Conquer
 |  |
 | ------- |
+| [0190-reverse-bits](https://github.com/ankesh716/java-training/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/ankesh716/java-training/tree/master/0191-number-of-1-bits) |
 | [0912-sort-an-array](https://github.com/ankesh716/java-training/tree/master/0912-sort-an-array) |
 | [0918-maximum-sum-circular-subarray](https://github.com/ankesh716/java-training/tree/master/0918-maximum-sum-circular-subarray) |
