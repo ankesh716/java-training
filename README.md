@@ -26,6 +26,7 @@
 | [0209-minimum-size-subarray-sum](https://github.com/ankesh716/java-training/tree/master/0209-minimum-size-subarray-sum) |
 | [0217-contains-duplicate](https://github.com/ankesh716/java-training/tree/master/0217-contains-duplicate) |
 | [0221-maximal-square](https://github.com/ankesh716/java-training/tree/master/0221-maximal-square) |
+| [0268-missing-number](https://github.com/ankesh716/java-training/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/ankesh716/java-training/tree/master/0283-move-zeroes) |
 | [0289-game-of-life](https://github.com/ankesh716/java-training/tree/master/0289-game-of-life) |
 | [0376-wiggle-subsequence](https://github.com/ankesh716/java-training/tree/master/0376-wiggle-subsequence) |
@@ -125,6 +126,7 @@
 | [0070-climbing-stairs](https://github.com/ankesh716/java-training/tree/master/0070-climbing-stairs) |
 | [0231-power-of-two](https://github.com/ankesh716/java-training/tree/master/0231-power-of-two) |
 | [0241-different-ways-to-add-parentheses](https://github.com/ankesh716/java-training/tree/master/0241-different-ways-to-add-parentheses) |
+| [0268-missing-number](https://github.com/ankesh716/java-training/tree/master/0268-missing-number) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/ankesh716/java-training/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1359-count-all-valid-pickup-and-delivery-options](https://github.com/ankesh716/java-training/tree/master/1359-count-all-valid-pickup-and-delivery-options) |
 ## Bit Manipulation
@@ -136,6 +138,7 @@
 | [0190-reverse-bits](https://github.com/ankesh716/java-training/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/ankesh716/java-training/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/ankesh716/java-training/tree/master/0231-power-of-two) |
+| [0268-missing-number](https://github.com/ankesh716/java-training/tree/master/0268-missing-number) |
 | [0338-counting-bits](https://github.com/ankesh716/java-training/tree/master/0338-counting-bits) |
 ## Recursion
 |  |
@@ -254,6 +257,7 @@
 | [0073-set-matrix-zeroes](https://github.com/ankesh716/java-training/tree/master/0073-set-matrix-zeroes) |
 | [0217-contains-duplicate](https://github.com/ankesh716/java-training/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/ankesh716/java-training/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/ankesh716/java-training/tree/master/0268-missing-number) |
 | [0560-subarray-sum-equals-k](https://github.com/ankesh716/java-training/tree/master/0560-subarray-sum-equals-k) |
 | [0763-partition-labels](https://github.com/ankesh716/java-training/tree/master/0763-partition-labels) |
 | [0895-maximum-frequency-stack](https://github.com/ankesh716/java-training/tree/master/0895-maximum-frequency-stack) |
@@ -309,6 +313,7 @@
 | [0209-minimum-size-subarray-sum](https://github.com/ankesh716/java-training/tree/master/0209-minimum-size-subarray-sum) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/ankesh716/java-training/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/ankesh716/java-training/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0268-missing-number](https://github.com/ankesh716/java-training/tree/master/0268-missing-number) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/ankesh716/java-training/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0704-binary-search](https://github.com/ankesh716/java-training/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/ankesh716/java-training/tree/master/0875-koko-eating-bananas) |
@@ -348,6 +353,7 @@
 | [0056-merge-intervals](https://github.com/ankesh716/java-training/tree/master/0056-merge-intervals) |
 | [0217-contains-duplicate](https://github.com/ankesh716/java-training/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/ankesh716/java-training/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/ankesh716/java-training/tree/master/0268-missing-number) |
 | [0435-non-overlapping-intervals](https://github.com/ankesh716/java-training/tree/master/0435-non-overlapping-intervals) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/ankesh716/java-training/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0912-sort-an-array](https://github.com/ankesh716/java-training/tree/master/0912-sort-an-array) |
