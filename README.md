@@ -14,6 +14,7 @@
 | [0055-jump-game](https://github.com/ankesh716/java-training/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/ankesh716/java-training/tree/master/0056-merge-intervals) |
 | [0064-minimum-path-sum](https://github.com/ankesh716/java-training/tree/master/0064-minimum-path-sum) |
+| [0066-plus-one](https://github.com/ankesh716/java-training/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/ankesh716/java-training/tree/master/0073-set-matrix-zeroes) |
 | [0078-subsets](https://github.com/ankesh716/java-training/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/ankesh716/java-training/tree/master/0079-word-search) |
@@ -123,6 +124,7 @@
 | [0009-palindrome-number](https://github.com/ankesh716/java-training/tree/master/0009-palindrome-number) |
 | [0012-integer-to-roman](https://github.com/ankesh716/java-training/tree/master/0012-integer-to-roman) |
 | [0048-rotate-image](https://github.com/ankesh716/java-training/tree/master/0048-rotate-image) |
+| [0066-plus-one](https://github.com/ankesh716/java-training/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/ankesh716/java-training/tree/master/0070-climbing-stairs) |
 | [0202-happy-number](https://github.com/ankesh716/java-training/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/ankesh716/java-training/tree/master/0231-power-of-two) |
