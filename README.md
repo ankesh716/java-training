@@ -10,6 +10,7 @@
 | [0042-trapping-rain-water](https://github.com/ankesh716/java-training/tree/master/0042-trapping-rain-water) |
 | [0046-permutations](https://github.com/ankesh716/java-training/tree/master/0046-permutations) |
 | [0048-rotate-image](https://github.com/ankesh716/java-training/tree/master/0048-rotate-image) |
+| [0049-group-anagrams](https://github.com/ankesh716/java-training/tree/master/0049-group-anagrams) |
 | [0054-spiral-matrix](https://github.com/ankesh716/java-training/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/ankesh716/java-training/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/ankesh716/java-training/tree/master/0056-merge-intervals) |
@@ -194,6 +195,7 @@
 | [0012-integer-to-roman](https://github.com/ankesh716/java-training/tree/master/0012-integer-to-roman) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/ankesh716/java-training/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/ankesh716/java-training/tree/master/0022-generate-parentheses) |
+| [0049-group-anagrams](https://github.com/ankesh716/java-training/tree/master/0049-group-anagrams) |
 | [0079-word-search](https://github.com/ankesh716/java-training/tree/master/0079-word-search) |
 | [0125-valid-palindrome](https://github.com/ankesh716/java-training/tree/master/0125-valid-palindrome) |
 | [0131-palindrome-partitioning](https://github.com/ankesh716/java-training/tree/master/0131-palindrome-partitioning) |
@@ -258,6 +260,7 @@
 | [0001-two-sum](https://github.com/ankesh716/java-training/tree/master/0001-two-sum) |
 | [0012-integer-to-roman](https://github.com/ankesh716/java-training/tree/master/0012-integer-to-roman) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/ankesh716/java-training/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0049-group-anagrams](https://github.com/ankesh716/java-training/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/ankesh716/java-training/tree/master/0073-set-matrix-zeroes) |
 | [0202-happy-number](https://github.com/ankesh716/java-training/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/ankesh716/java-training/tree/master/0217-contains-duplicate) |
@@ -355,6 +358,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/ankesh716/java-training/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/ankesh716/java-training/tree/master/0056-merge-intervals) |
 | [0217-contains-duplicate](https://github.com/ankesh716/java-training/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/ankesh716/java-training/tree/master/0242-valid-anagram) |
